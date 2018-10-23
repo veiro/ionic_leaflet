@@ -5,6 +5,7 @@
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
+    "cmp": "serve",
     "start": "ionic-app-scripts serve",
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
@@ -24,6 +25,7 @@
     "@ionic-native/geolocation": "^4.16.0",
     "@ionic-native/splash-screen": "~4.15.0",
     "@ionic-native/status-bar": "~4.15.0",
+    "@ionic/app-scripts": "3.2.0",
     "@ionic/pro": "2.0.3",
     "@ionic/storage": "2.2.0",
     "body-parser": "^1.18.3",
@@ -43,13 +45,10 @@
     "morgan": "^1.9.1",
     "rxjs": "5.5.11",
     "sw-toolbox": "3.6.0",
-    "zone.js": "0.8.26",
-    "@ionic/app-scripts": "3.2.0",
-    "typescript": "~2.6.2"
+    "typescript": "~2.6.2",
+    "zone.js": "0.8.26"
   },
-  "devDependencies": {
-    
-  },
+  "devDependencies": {},
   "description": "An Ionic project",
   "cordova": {
     "plugins": {
