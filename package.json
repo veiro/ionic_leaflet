@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "cmp": "serve",
-    "start": "ionic-app-scripts serve",
+    "start": "node server.js",
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
     "lint": "ionic-app-scripts lint"

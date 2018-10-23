@@ -9,6 +9,8 @@ https://floating-shore-27721.herokuapp.com/ | https://git.heroku.com/floating-sh
 
 -- Como ejecutar?
 
+"ionic-app-scripts serve",
+
 1.  npm install -g ionic cordova
 2.  git clone https://github.com/veiro/Ionic3_LeafletMaps.git
 3.  cd NombreeCarpeta
