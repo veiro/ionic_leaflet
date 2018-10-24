@@ -2,6 +2,8 @@
 
 Para hacer la app segui: http://tphangout.com/ionic-3-leaflet-maps-geolocation-markers/
 Para crear el mapa offline: https://reviblog.net/tag/ionic-3-mapa-offline/ 
+Para hacer el deploy: https://ionicframework.com/docs/intro/deploying/ 
+
 
 En heroku:
 floating-shore-27721
