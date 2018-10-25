@@ -12,7 +12,7 @@ En la aplicación los mapas deben ser accedidos offline.
 1.	Instalar ambiente desarrollo: [https://ionicframework.com/docs/v1/guide/installation.html](https://ionicframework.com/docs/v1/guide/installation.html)
 2.	Para poder debuguear en Android hay que bajarse el Android Studio. [https://developer.android.com/studio/](https://developer.android.com/studio/)
 3.  Para ejecuar el proyecto ejecutar los comandos:
-	* git clone git@gitlab.bps.net:CSDA-Acerca/pruebasmodernizacionfiscalizaciones.git
+	* git clone git@github.com:veiro/ionic_leaflet.git
 	*cd pruebasmodernizacionfiscalizaciones
 	* cd ionic_leaflet
 	* npm install
