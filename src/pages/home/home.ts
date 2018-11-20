@@ -18,7 +18,7 @@ export class HomePage {
   ionViewDidEnter() {
     this.loadmap();
   }
-  /*
+  
   loadmap() {
     this.map = leaflet.map("map").fitWorld();
     leaflet.tileLayer('assets/mapa/{z}/{x}/{y}.png', {
@@ -42,9 +42,9 @@ export class HomePage {
       alert(err.message);
     })
 
-  }*/
+  }
 
-  loadmap() {
+  /*loadmap() {
     this.map = leaflet.map("map").fitWorld();
     leaflet.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attributions: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -68,6 +68,6 @@ export class HomePage {
       alert(err.message);
     })
 
-  }
+  }*/
 
 }
